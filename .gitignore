@@ -1,2 +1,2 @@
-keywords.txt
-__pycache__
+./keywords.txt
+./__pycache__
